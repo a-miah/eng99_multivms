@@ -43,6 +43,10 @@
 
 # Setting up Virtual Machine
 
+## Development Environment 
+
+![Alt text](Images/VM-setup.JPG "Development Environment")
+
 ### 1. Create a Vagrantfile
 With the below included in the file:
 ```
@@ -105,6 +109,10 @@ A pipe can pass the standard output of one operation to the standard input of an
 
 
 # Multimachine Vagrantfile created
+
+## Multimachine with Node and MongoDB
+
+![Alt text](Images/multi-machine.JPG "Monolith Architecture")
 
 ```
 
